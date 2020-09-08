@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: http://github.com/rafelcam/delivery-configs
+          uri: https://github.com/rafaelcam/delivery-configs
